@@ -38,7 +38,7 @@ If you would like to contribute to this master list, there are a few "rules" tha
 
 ## Join Us Online
 
-You can join the OHANA Contributor channel on the informaticist slack (informaticist.slack.com).
+You can join the OHANA Contributor channel on the informaticist slack workspace (informaticist.slack.com).  Contact contrib@ohanaproject.org for an invitation.
 
 You can email contrib@ohanaproject.org
 
